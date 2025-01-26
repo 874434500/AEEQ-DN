@@ -1,2 +1,2 @@
-# AEEQ-DN:Anti-Compression-Image-Embedding-Algorithm-for-Enhanced-Quality-Based-on-Deep-Networks
-## code of circular attention-based image steganography model for anti-JPEG compression
+# RADN:Residual Attention Diffusion Network for High Quality Anti-Compression Image Embedding
+## code of JPEG-robust residual attention-based diffusion steganography model using GAN 
