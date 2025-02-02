@@ -1,2 +1,2 @@
-# RADN:Residual Attention Diffusion Network for High Quality Anti-Compression Image Embedding
-## code of JPEG-robust residual attention-based diffusion steganography model using GAN 
+# RADGAN:Anti-Compression Residuals Attention-Based Diffusion Steganography Model Using GAN
+## code of Anti-Compression Residuals Attention-Based Diffusion Steganography Model Using GAN
